@@ -1,0 +1,2 @@
+# SchoolMode
+Mundo do saber
